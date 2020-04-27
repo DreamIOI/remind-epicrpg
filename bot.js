@@ -181,8 +181,8 @@ bot.on('message', message => {
                 }
             }
         });
-		return;*/
-    }
+		return;
+    }*/
 
 });
 bot.login('process.env.BOT_TOKEN');
